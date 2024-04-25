@@ -1,2 +1,2 @@
 # Longitudinal
-Longitudinal data analysis using logistic mixed model effect 
+Longitudinal data analysis using logistic mixed model effect!
